@@ -1,0 +1,16 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nextjs": "^0.0.3",
+    "react-icons": "^5.2.1",
+    "typescript": "^5.5.2"
+  },
+  "description": ""
+}
